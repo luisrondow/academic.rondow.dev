@@ -1,4 +1,4 @@
-# academy-site
+# Luis von Rondow - Academic space
 
 Standalone, zero-build academic projects page using vanilla HTML, CSS, and JavaScript.
 
