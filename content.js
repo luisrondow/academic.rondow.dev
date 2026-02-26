@@ -82,7 +82,7 @@ export const academyContent = {
       description:
         "Interactive visualizer for DFA, NFA, ε-NFA, PDA, and Turing machine models with step-by-step simulation, examples, and formal transition views.",
       tags: ["languages-and-computation", "automata", "turing-machine"],
-      href: "https://github.com/luisrondow/languages-n-computation-visualizer",
+      href: "https://academic.rondow.dev/languages-computation-visualizer",
     },
   ],
 };
